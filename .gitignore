@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Compiled binary (executable)
+a.out
+*.out
+*.exe
+
+# Backup files
+*~
+*.bak
+
+# Debug files
+*.dSYM/
+*.log
+
+# CTags and similar
+tags
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
